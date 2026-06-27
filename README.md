@@ -1,1 +1,1 @@
-# odin-recipes
+In This README.md it supposed to implemented what i have been learning in this past 3 days about git, html by creating project named odin-recipes
